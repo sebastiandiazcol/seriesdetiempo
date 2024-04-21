@@ -260,4 +260,4 @@ checkresiduals(modelo)
 plot(modelo)
 
 
-#seguir
+#seguir editanto para ver hasta donde llegamos 
